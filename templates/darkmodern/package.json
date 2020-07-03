@@ -1,0 +1,14 @@
+{
+	"name": "darkmodern-theme",
+	"scripts": {
+		"start": "npx parcel serve src/index.html",
+		"build": "npx parcel build src/index.html"
+	},
+	"devDependencies": {
+		"@fullhuman/postcss-purgecss": "^2.3.0",
+		"parcel-bundler": "^1.12.4",
+		"postcss-modules": "^3.2.0",
+		"prettier": "^2.0.5",
+		"tailwindcss": "^1.4.6"
+	}
+}
